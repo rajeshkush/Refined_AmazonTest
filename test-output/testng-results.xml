@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-06T18:51:33 IST" name="Default suite" finished-at="2020-11-06T18:52:30 IST" duration-ms="57265">
+    <groups>
+    </groups>
+    <test started-at="2020-11-06T18:51:33 IST" name="Default test" finished-at="2020-11-06T18:52:30 IST" duration-ms="57265">
+      <class name="tests.TestAmazon">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestAmazon@55536d9e]" started-at="2020-11-06T18:51:33 IST" name="setup" finished-at="2020-11-06T18:52:16 IST" duration-ms="43013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mobiletest()[pri:0, instance:tests.TestAmazon@55536d9e]" started-at="2020-11-06T18:52:16 IST" name="mobiletest" finished-at="2020-11-06T18:52:16 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiletest -->
+        <test-method signature="shoppingTV()[pri:0, instance:tests.TestAmazon@55536d9e]" started-at="2020-11-06T18:52:16 IST" name="shoppingTV" finished-at="2020-11-06T18:52:29 IST" duration-ms="12889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingTV -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.TestAmazon@55536d9e]" started-at="2020-11-06T18:52:29 IST" name="teardown" finished-at="2020-11-06T18:52:30 IST" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.TestAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
